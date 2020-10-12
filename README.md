@@ -14,4 +14,12 @@ If you want to join us on Discord, the invite url you can use is: [https://disco
 
 Get comfortable with Git and Github! We'll be using it a lot, so if you are rusty, you'll want to make sure you know how to clone a repo, add a branch, work on a feature, then push the feature back up to said branch and make a pull request.  There's more too, but those are the basics for now, and we can go over these concepts in meetings.  Meetings are your chance to ask questions and talk to others, as the real work gets done on your own time. 
 
-Over time we will be improving this README, but that's really the gist.  Feel free to join JavaScriptLA's [Slack](https://javascriptla.herokuapp.com) or [Discord](https://discord.gg/WMBTHXx) if you have more questions, and in time we will have more updates here.
+### View Our Coding Guidelines
+
+Go back to the [Team Hack Git Home Page](https://github.com/team-hack) and click [coding-guidelines](https://github.com/team-hack/coding-guidelines), then read the files inside.  
+
+Make sure you are good with the files, especially the README.md, LICENSE and github-coding-guidelines.md.  These files form the basis for how our group members will conduct themselves as part of Team Hack.
+
+## Final Thoughts
+
+Over time we will be improving all repos, but that's really the gist for now with this file.  Feel free to join JavaScriptLA's [Slack](https://javascriptla.herokuapp.com) or [Discord](https://discord.gg/WMBTHXx) if you have more questions, and in time we will have more updates here.
