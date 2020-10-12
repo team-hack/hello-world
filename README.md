@@ -18,7 +18,7 @@ Get comfortable with Git and Github! We'll be using it a lot, so if you are rust
 
 Go back to the [Team Hack Git Home Page](https://github.com/team-hack) and click [coding-guidelines](https://github.com/team-hack/coding-guidelines), then read the files inside.  
 
-Make sure you are good with the files, especially the README.md, LICENSE and github-coding-guidelines.md.  These files form the basis for how our group members will conduct themselves as part of Team Hack.
+Make sure you are good on all the information presented there. These files form the basis for how our group members will conduct themselves as part of Team Hack, as well as reference for what to do when working in projects.
 
 ## Final Thoughts
 
